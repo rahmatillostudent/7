@@ -160,7 +160,7 @@ header {
   margin-top: 24px;
   margin-bottom: 48px;
 }
-.cart-11 {
+.cart-1 {
   text-align: center;
   width: 312px;
   height: 418px;
@@ -173,7 +173,7 @@ header {
   cursor: pointer;
   position: relative;
 }
-.cart11:hover {
+.cart1:hover {
   background-color: white;
   transform: scale(105%);
   border-color: black;
@@ -244,9 +244,15 @@ header {
   border-radius: 50%;
   background-color: rgba(249, 168, 93, 1);
 }
+.vonna-1 {
+  display: flex;
+  align-items: center;
+  background: aqua;
+}
 .vonna {
+  display: flex;
   font-family: "Poppins";
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 24px;
   color: rgba(62, 62, 62, 1);
@@ -376,7 +382,7 @@ header {
   border-radius: 50%;
   border: none;
 }
-.r1-cart {
+.r-cart {
   display: flex;
   justify-content: space-between;
   width: 424px;
